@@ -7,3 +7,11 @@ node_modules/
 .git
 .DS_Store
 install.md
+API-INTEGRATION.md
+BACKEND-REQUIREMENTS.md
+CACHE-REFERENCE.md
+PROJECT-SUMMARY.md
+SETUP.md
+SIMPLIFIED-COMMANDS.md
+QUICK-START.md
+.gitattributes
